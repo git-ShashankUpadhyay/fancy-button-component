@@ -9,6 +9,12 @@
   border-radius: 4px;
   cursor: pointer;
 }
+a{
+  text-decoration: none;
+  padding: 15px 32px;
+  color: rgb(73, 66, 66);
+
+}
 
 .linkdin {background-color: blue;} /* Blue */
 .linkdin:hover{
@@ -18,9 +24,3 @@
 .success {background-color: #4CAF50;} /* Green */
 .danger {background-color: #f44336;} /* Red */
 
-a{
-  text-decoration: none;
-  padding: 15px 32px;
-  color: white;
-
-}

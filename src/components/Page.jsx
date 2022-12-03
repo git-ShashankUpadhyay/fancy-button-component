@@ -16,42 +16,30 @@ export const Page = () => {
       />
 
       <section>
-        <h2>Pages in Storybook</h2>
+        <h2>Something about myself</h2>
         <p>
-          We recommend building UIs with a{' '}
-          <a href="https://componentdriven.org" target="_blank" rel="noopener noreferrer">
-            <strong>component-driven</strong>
+        My name is {' '}
+          <a href="/" target="_blank" rel="noopener noreferrer">
+            <strong>Shashank Upadhyay</strong>
           </a>{' '}
-          process starting with atomic components and ending with pages.
+          I am a fourth-year student of Btech CSE at GLA University, Mathura. 
         </p>
         <p>
-          Render pages with mock data. This makes it easy to build and review page states without
-          needing to navigate to them in your app. Here are some handy patterns for managing page
-          data in Storybook:
+        during my graduation, I learned languages like java, HTML, CSS, javascript, SQL, and concepts of the database management system, data structure, and algorithms using those technologies and concepts I did some projects like :
         </p>
         <ul>
           <li>
-            Use a higher-level connected component. Storybook helps you compose such data from the
-            "args" of child component stories
+          Food waste management system(a website which connects NGOs to restaurants to provide food for the needy people) 
           </li>
           <li>
-            Assemble data in the page component from your services. You can mock these services out
-            using Storybook.
+          Prediction of Oil spills events at Sea(which predicts oil spills events at sea using machine learning concept.)
           </li>
         </ul>
         <p>
-          Get a guided tutorial on component-driven development at{' '}
-          <a href="https://storybook.js.org/tutorials/" target="_blank" rel="noopener noreferrer">
-            Storybook tutorials
-          </a>
-          . Read more in the{' '}
-          <a href="https://storybook.js.org/docs" target="_blank" rel="noopener noreferrer">
-            docs
-          </a>
-          .
+        I am confident that the skills I developed during my graduation have prepared me for this role in your company. My knowledge of all these concepts makes me a great candidate for this opening. I would love to join and add great value to the company.
         </p>
         <div className="tip-wrapper">
-          <span className="tip">Tip</span> Adjust the width of the canvas with the{' '}
+          <span className="tip">Thank</span>you for your consideration{' '}
           <svg width="10" height="10" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
             <g fill="none" fillRule="evenodd">
               <path
@@ -61,7 +49,6 @@ export const Page = () => {
               />
             </g>
           </svg>
-          Viewports addon in the toolbar
         </div>
       </section>
     </article>
