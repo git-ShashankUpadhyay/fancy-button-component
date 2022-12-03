@@ -19,7 +19,7 @@ export const Page = () => {
         <h2>Something about myself</h2>
         <p>
         My name is {' '}
-          <a href="/" target="_blank" rel="noopener noreferrer">
+          <a href="#" target="_blank" rel="noopener noreferrer">
             <strong>Shashank Upadhyay</strong>
           </a>{' '}
           I am a fourth-year student of Btech CSE at GLA University, Mathura. 
